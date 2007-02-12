@@ -5,7 +5,7 @@
 %define		_pearname	Structures_DataGrid_Renderer_XLS
 
 Summary:	%{_pearname} - Renderer driver using PEAR::Spreadsheet_Excel_Writer
-Summary(pl):	%{_pearname} - sterownik renderera korzystaj±cy z PEAR::Spreadsheet_Excel_Writer
+Summary(pl.UTF-8):   %{_pearname} - sterownik renderera korzystajÄ…cy z PEAR::Spreadsheet_Excel_Writer
 Name:		php-pear-%{_pearname}
 Version:	0.1.1
 Release:	1
@@ -29,9 +29,9 @@ PEAR::Spreadsheet_Excel_Writer.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet dostarcza sterownik renderera dla Structures_DataGrid
-korzystaj±cy z PEAR::Spreadsheet_Excel_Writer.
+korzystajÄ…cy z PEAR::Spreadsheet_Excel_Writer.
 
 Ta klasa ma w PEAR status: %{_status}.
 
