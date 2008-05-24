@@ -17,7 +17,6 @@ URL:		http://pear.php.net/package/Structures_DataGrid_Renderer_XLS/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
-Requires:	php-pear-PEAR >= 1:1.4.-0.9
 Requires:	php-pear-Spreadsheet_Excel_Writer >= 0.9.0
 Requires:	php-pear-Structures_DataGrid >= 0.7.0
 BuildArch:	noarch
