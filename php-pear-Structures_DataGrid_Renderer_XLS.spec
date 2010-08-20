@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Renderer driver using PEAR::Spreadsheet_Excel_Writer
 Summary(pl.UTF-8):	%{_pearname} - sterownik renderera korzystający z PEAR::Spreadsheet_Excel_Writer
 Name:		php-pear-%{_pearname}
-Version:	0.1.2
-Release:	3
+Version:	0.1.3
+Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	84651b8a31b158b907373f3d51cfec67
+# Source0-md5:	373b154195dfeb368eb4038bb1583768
 URL:		http://pear.php.net/package/Structures_DataGrid_Renderer_XLS/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
